@@ -1,0 +1,12 @@
+
+click(vec(1135.0, 293.0))
+click(vec(1135.0, 293.0))
+click(vec(1135.0, 293.0))
+click(vec(1135.0, 293.0))
+click(vec(1135.0, 293.0))
+click(vec(1135.0, 293.0))
+click(vec(1135.0, 293.0))
+click(vec(1135.0, 293.0))
+click(vec(1135.0, 293.0))
+click(vec(1135.0, 293.0))
+execute("combiner")

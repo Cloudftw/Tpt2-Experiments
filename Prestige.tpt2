@@ -1,0 +1,6 @@
+
+click(vec(942.0, 473.5))
+click(vec(700.0, 267.0))
+click(vec(843.5, 71.5))
+execute("condenser")
+goto(99)

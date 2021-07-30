@@ -1,0 +1,19 @@
+:global int neutral
+
+wakeup()
+
+neutral <= 10000000
+isopen("laboratory")
+
+click(vec(1135.0, 112.0))
+click(vec(1135.0, 112.0))
+click(vec(1135.0, 112.0))
+click(vec(1135.0, 112.0))
+click(vec(1135.0, 112.0))
+click(vec(1135.0, 112.0))
+click(vec(1135.0, 112.0))
+click(vec(1135.0, 112.0))
+click(vec(1135.0, 112.0))
+click(vec(1135.0, 112.0))
+execute("purer")
+neutral = neutral + 1
