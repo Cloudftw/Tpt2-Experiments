@@ -1,4 +1,4 @@
-# Tpt2
+# Neutral Experiment
  Automatically goes through and levels up each part of neutral experiment, then prestiges
  Currently only works on 16:9 720p but will work on more resolutions in a future update
 
